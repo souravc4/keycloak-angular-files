@@ -1,0 +1,10 @@
+{
+  "realm": "pacific",
+  "auth-server-url": "http://localhost:8080/auth",
+  "ssl-required": "external",
+  "resource": "customer-manager",
+  "credentials": {
+    "secret": "8557c3d5-09ba-430b-a448-e508a19f9614"
+  },
+  "confidential-port": 0
+}
